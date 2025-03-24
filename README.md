@@ -64,9 +64,4 @@ int main(void)
 ```
 
 ## Autores
-- [Seu Nome](https://github.com/seu-usuario)
-
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-
+- [Nathan-N7](https://github.com/Nathan-N7)
